@@ -6,5 +6,6 @@ print(a+b)
 sample = "Sum of a and b"
 =======
 i = int(input("Enter a No"))
+j = int(input("Enter your age"))
 k = int(input("Enter your name"))
->>>>>>> parent of b2feae7 (Remove few codes)
+print(i,j,k)
